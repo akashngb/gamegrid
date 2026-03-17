@@ -47,7 +47,7 @@ Classic word-guessing game where players have 6 attempts to guess a 5-letter wor
 
 **Features:**
 - On-screen keyboard
-- Real-time letter validation
+- Letter validation in real-time
 - Score tracking
 - Word list validation
 
