@@ -48,7 +48,7 @@ Classic word-guessing game where players have 6 attempts to guess a 5-letter wor
 **Features:**
 - On-screen keyboard
 - Real-time letter validation
-- Score tracking based on wins
+- Score tracking
 - Word list validation
 
 ### 2. Block Blast
